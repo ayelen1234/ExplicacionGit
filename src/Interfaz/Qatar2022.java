@@ -31,7 +31,7 @@ public class Qatar2022 {
 		}while (!actual.elAlbumEstaCompleto());
 	}
 	private static void mostrarMenu() {
-		System.out.println("************************");
+
 		System.out.println("Menu de opciones\n");
 		System.out.println(ACTUALIZAR_DATOS_FIGURITA + " - Actualizar datos de la figurita");
 		System.out.println(COMPRAR_SOBRE + " - Comprar sobre ");
